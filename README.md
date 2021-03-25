@@ -1,2 +1,3 @@
-# VC_Rec_imagens
-Trabalho 1 - Visão computacional
+# Tópicos de Visão Computacinoal
+
+## Trabalho 1 - Reconhecimento de imagens
