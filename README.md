@@ -1,4 +1,4 @@
-# Tópicos de Visão Computacinoal
+# Tópicos de Visão Computacional
 
 ## Trabalho 1 - Reconhecimento de imagens a partir de histogramas e PDF's.
 
